@@ -1,7 +1,6 @@
 #ifndef __ERR_HAND_H__
 #define __ERR_HAND_H__
 #include <string.h>
-#include "err_hand_SDL.h"
 
 /* *************ErrHand_quit_if_cannot_open(dir)***************
  * dir: DIR* (from dirent.h)
